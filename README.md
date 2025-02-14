@@ -5,31 +5,28 @@
 ![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
 ![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
 
-⭐ **Note:** This project is for **learning & educational purposes** and uses an **older** version of the OpenVPN SDK. If you plan to publish this on the **Play Store**, it may get **rejected**.
-
 ---
 
-## 📱 Simple, Decent & Free VPN App Based on the OpenVPN Protocol
+## 📱 OpenVPN Protokolüne Dayalı Basit, İyi ve Ücretsiz VPN Uygulaması
 
-A lightweight, easy-to-use VPN application built with Flutter, offering secure connections via the OpenVPN protocol.
-
+Flutter ile geliştirilmiş, hafif ve kullanımı kolay bir VPN uygulaması olup, OpenVPN protokolü üzerinden güvenli bağlantılar sunar.
 ---
 
 ## 📦 APKs:
 
 - **Arm APK:**  
   [Download Arm APK](https://github.com/HarshAndroid/FreeVPN-App-Flutter/blob/master/sample%20apk/Free%20Vpn%20App%20(arm)%2011_07_2024.apk)  
-  *(Supports ARM v7 and v8 devices)*
+  *(ARM v7 ve v8 cihazlarını destekler)*
 
 - **Global APK:**  
   [Download Global APK](https://github.com/HarshAndroid/FreeVPN-App-Flutter/blob/master/sample%20apk/Free%20Vpn%20App%20(global)%2011_07_2024.apk)  
-  *(Supports all devices)*
+  *(Tüm cihazları destekler)*
 
 ---
 
-## 📸 Screenshots:
+## 📸 Görüntüler:
 
-**Actual app looks even better! 😃**
+**Gerçek uygulama daha da iyi görünüyor! 😃**
 
 <kbd>
   <img src="https://github.com/HarshAndroid/FreeVPN-App-Flutter/blob/master/screenshots/1.png" width=30% height=30%/>
@@ -42,68 +39,45 @@ A lightweight, easy-to-use VPN application built with Flutter, offering secure c
 
 ---
 
-## ✨ Features:
+## ✨ Özellikler:
 
-- Access many free public servers from [VPN Gate](https://www.vpngate.net/en/).
-- Secure connection using the **OpenVPN protocol**.
-- **No sign-up required**—start using the app right away.
-- **IP Address Test** feature to verify your VPN connection.
-- **Data caching** for faster access.
-- Integrated **Google Test Ads** with Firebase for dynamic ad IDs.
-- Decent UI with modern Material Widgets.
-- **And much more...**
-
----
-
-## ⚙️ Google Ads Integration:
-
-This project includes **Google Ads** with Firebase for dynamic ad IDs.  
-To make the ads function correctly, configure Firebase and apply some adjustments.
-
-Refer to these videos for Firebase and Remote Config setup for ads:  
-- [Firebase Setup for Ads](https://youtu.be/Bx0ixmpHpMI)  
-- [Remote Config for Ads](https://youtu.be/XkbRhBiSZMU)
+- [VPN Gate](https://www.vpngate.net/en/) ile birçok ücretsiz genel sunucuya erişin. 
+- OpenVPN protokolünü kullanarak güvenli bağlantı. 
+- Kayıt olmanıza gerek yok , uygulamayı hemen kullanmaya başlayın. 
+- VPN bağlantınızı doğrulamak için IP Adresi Testi özelliği. 
+- Daha hızlı erişim için veri önbelleğe alma. 
+- Dinamik reklam kimlikleri için Firebase ile entegre Google Test Reklamları. 
+- Modern Material Widget'ları ile iyi bir kullanıcı arayüzü. 
+- **Ve çok daha fazlası...**
 
 ---
 
-## 💡 Note:
+## ⚙️ Google Ads Entegrasyonu:
 
-This project is built on top of **NizVpn Flutter**. Show some love to the original creator:  
-[GitHub Link to NizVpn](https://github.com/nizwar/nizvpn)
+Bu proje, dinamik reklam kimlikleri için Firebase ile **Google Ads**'i içerir.
+Reklamların doğru şekilde çalışmasını sağlamak için Firebase'i yapılandırın ve bazı ayarlamalar uygulayın.
 
----
-
-## 🎥 YouTube Course:
-
-Check out the full **YouTube Course**:  
-[Watch the Playlist](https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq)
+Reklamlar için Firebase ve Remote Config kurulumu için şu videolara bakın:
+- [Firebase Kurulumu](https://youtu.be/Bx0ixmpHpMI)  
+- [Reklamlar için Uzaktan Yapılandırma](https://youtu.be/XkbRhBiSZMU)
 
 ---
 
-## 💬 Feedback and Suggestions:
+## 💡 Uyarılar:
 
-For any feedback or suggestions, feel free to contact me via email:  
-📧 [rajpurohitharsh2020@gmail.com](mailto:rajpurohitharsh2020@gmail.com)
+- Bu proje **öğrenme ve eğitim amaçlıdır** ve OpenVPN SDK'nın **daha eski** bir sürümünü kullanır. Bunu **Play Store**'da yayınlamayı planlıyorsanız, **reddedilebilir**.
+
 
 ---
 
-## 🏷️ Keywords
+## 💬 Geri bildirim ve Önerileriniz:
 
-- **Flutter VPN App**
-- **Dart VPN Application**
-- **Free VPN App Flutter**
-- **OpenVPN Flutter**
-- **Flutter OpenVPN Protocol**
-- **Cross-Platform VPN App**
-- **Flutter Secure Connection**
-- **OpenVPN Dart**
-- **Flutter Google Ads Integration**
-- **VPN Gate Free Servers**
-- **VPN App for Android and iOS**
-- **Flutter Firebase Ads**
-- **Flutter VPN with IP Address Test**
-- **No Signup VPN App**
-- **Free Flutter VPN App Download**
+Herhangi bir geri bildirim veya öneriniz varsa lütfen bana ulaşmaktan çekinmeyin:
+📧 [Discord](atilla.com)
+
+---
+
+## Bu projeyi gerçekleştirdiği için Atilla'ya teşekkür ederiz.
 
 
 
